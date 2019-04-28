@@ -1,9 +1,9 @@
-Here you can find the drafts for my project on cleaning statcast data. Be aware this is an Ipython file created using Jupityr Notebook, and some of the functionality (like linked table of contents) is currently lost when not opened in Jupyter Notebook or Lab. I'll release a final markdown or PDF file once I'm finished.
+Here you can find the newest draft for my project on cleaning statcast data. Be aware this is an Ipython file created using Jupityr Notebook, and some of the functionality (like linked table of contents) is currently lost when not opened in Jupyter Notebook or Lab. I'll release a final markdown or PDF file once I'm finished.
 <br/>
 
 
 Contents:<br />
   -Cleaning Stastcast Data.ipynb is the main project file<br />
   -Rough Draft contains sections I haven't yet completed<br />
-  -Note: All pictures and the csv data are sitting in the same folder. This will not be the case once I enter the final drafting          process<br />
+  -Note: The csv is currently sitting in the same folder as the main file. This will not be the case once I enter the final drafting          process<br />
   -The sources for the images have not yet been cited, but I don't own them and they'll be cited in the final draft<br />
