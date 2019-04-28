@@ -5,5 +5,4 @@ Here you can find the newest draft for my project on cleaning statcast data. Be 
 Contents:<br />
   -Cleaning Stastcast Data.ipynb is the main project file<br />
   -Rough Draft contains sections I haven't yet completed<br />
-  -Note: The csv is currently sitting in the same folder as the main file. This will not be the case once I enter the final drafting          process<br />
   -The sources for the images have not yet been cited, but I don't own them and they'll be cited in the final draft<br />
