@@ -1,4 +1,4 @@
-Here you can find the newest draft for my project on cleaning statcast data. Be aware this is an Ipython file created using Jupityr Notebook, and some of the functionality (like linked table of contents) is currently lost when not opened in Jupyter Notebook or Lab. I'll release a final markdown or PDF file once I'm finished.
+Here you can find the newest draft for my project on cleaning statcast data. Be aware this is an Ipython file created using Jupityr Notebook, and some of the functionality (linked table of contents, some headers, and images) is currently lost when not opened in Jupyter Notebook or Lab. I'll release a final markdown or PDF file once I'm finished.
 <br/>
 
 
