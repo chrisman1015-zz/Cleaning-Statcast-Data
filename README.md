@@ -1,4 +1,4 @@
-Here you can find my project on cleaning statcast data. Be aware this is an Ipython file created using Jupyter Notebook, and some of the functionality (linked table of contents, some headers, and images) is currently lost when not opened in Jupyter Notebook or Lab.
+Here you can find my project on cleaning statcast data
 <br/>
 <br/>
 
